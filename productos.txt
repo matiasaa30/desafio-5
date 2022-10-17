@@ -1,0 +1,38 @@
+[
+	{
+		"title": "Iphone",
+		"price": 8999.5,
+		"thumbnail": "https://www.macstation.com.ar/img/productos/small/1680-1111.jpg",
+		"id": 1
+	},
+	{
+		"title": "Imac",
+		"price": 91500.5,
+		"thumbnail": "https://www.macstation.com.ar/img/productos/small/1888-111.jpg",
+		"id": 2
+	},
+	{
+		"title": "Macbook",
+		"price": 90000.5,
+		"thumbnail": "https://www.macstation.com.ar/img/productos/2614-1.jpg",
+		"id": 3
+	},
+	{
+		"title": "Ipad",
+		"price": 29000.5,
+		"thumbnail": "https://www.macstation.com.ar/img/productos/2450-1.jpg",
+		"id": 4
+	},
+	{
+		"title": "macbook pro",
+		"price": "123123",
+		"thumbnail": "https://outtec.com.ar/wp-content/uploads/2021/08/M1.jpg",
+		"id": 5
+	},
+	{
+		"title": "Iphone pro 14",
+		"price": "12312321",
+		"thumbnail": "https://www.apple.com/v/iphone-14-pro/a/images/overview/hero/hero_iphone_14_pro__kzr001ge0262_large.jpg",
+		"id": 6
+	}
+]
